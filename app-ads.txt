@@ -93,8 +93,6 @@ advertising.com, 24315, RESELLER
 beachfront.com, 7300, RESELLER
 improvedigital.com, 1150, RESELLER
 improvedigital.com, 1751, RESELLER
-aol.com, 57992, RESELLER, e1a5b5b6e3255540
-Yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
 tpmn.io, 256, RESELLER
 pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
@@ -126,7 +124,6 @@ nobid.io, 22388449880, RESELLER
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 smartadserver.com, 4083, RESELLER.
 conversantmedia.com, 100293, RESELLER, 03113cd04947736d
-indexexchange.com, 194974, RESELLER
 smartclip.net, 13039, RESELLER
 freewheel.tv, 1161393, RESELLER
 freewheel.tv, 1162449, RESELLER
@@ -227,7 +224,6 @@ smartadserver.com, 3503, RESELLER
 freewheel.tv, 1106481, RESELLER
 freewheel.tv, 1106497, RESELLER
 Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
-improvedigital.com, 1805, RESELLER
 criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44
 admanmedia.com, 936, RESELLER
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
@@ -240,8 +236,6 @@ thirdpresence.com, 497215, RESELLER
 inmobi.com, 6f4e0f593c2c4e5bb9d03d3042318ab0, RESELLER, 83e75a7ae333ca9d
 spotxchange.com, 307720, RESELLER, 7842df1d2fe2db34
 pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
-Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
-improvedigital.com, 1805, RESELLER
 criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44f
 admanmedia.com, 936, RESELLER
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e

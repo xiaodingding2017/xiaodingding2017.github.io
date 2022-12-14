@@ -539,3 +539,43 @@ smartadserver.com, 4342, RESELLER
 smartadserver.com, 4140, RESELLER
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 improvedigital.com, 2164, RESELLER
+triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+aralego.com, par-AA7D2439924BA478C7D72D8D2DE9244, RESELLER
+yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+smartadserver.com, 3713, RESELLER
+sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
+Contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
+yahoo.com, 59669, RESELLER, e1a5b5b6e3255540
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 09f53411034d4d608cd6230490d46fff, RESELLER, 83e75a7ae333ca9d
+conversantmedia.com, 42094, RESELLER, 03113cd04947736d
+vidoomy.com, 1576959, RESELLER
+inmobi.com, 216d7d6a2d3a440bb1d74388fb58ca15, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 162402, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24908, RESELLER, 0bfd66d529a55807
+inmobi.com, e571e03c05664d25becfd1174c7e0dbd, RESELLER, 83e75a7ae333ca9d
+triplelift.com, 12730, RESELLER, 6c33edb13117fd86
+xandr.com, 13058, RESELLER
+triplelift.com, 8446, RESELLER, 6c33edb13117fd86
+152media.info, 152M372, RESELLER
+triplelift.com, 12913, RESELLER, 6c33edb13117fd86
+Contextweb.com, 562769, RESELLER, 89ff185a4c4e857c
+video.unrulymedia.com, 9085206363819624071, RESELLER
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
+improvedigital.com, 2110, RESELLER
+improvedigital.com, 2178, RESELLER
+improvedigital.com, 2176, RESELLER
+improvedigital.com, 2175, RESELLER
+contextweb.com, 562786, RESELLER, 89ff185a4c4e857c
+xandr.com, 14254, RESELLER
+consumable.com, 2001444, RESELLER
+pubmatic.com, 120391, RESELLER, 5d62403b186f2ace
+appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
+openx.com, 540022851, RESELLER, 6a698e2ec38604c6
+triplelift.com, 10521, RESELLER, 6c33edb13117fd86
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, ZqrIAHsE, RESELLER, d53b998a7bd4ecd2
+contextweb.com, 562329, RESELLER, 89ff185a4c4e857c
+improvedigital.com, 2181, RESELLER
